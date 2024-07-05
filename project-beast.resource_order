@@ -23,5 +23,12 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_dummy_maria_walk","order":2,"path":"sprites/spr_dummy_maria_walk/spr_dummy_maria_walk.yy",},
+    {"name":"spr_dummy_maria_run","order":3,"path":"sprites/spr_dummy_maria_run/spr_dummy_maria_run.yy",},
+    {"name":"spr_dummy_maria_idle","order":1,"path":"sprites/spr_dummy_maria_idle/spr_dummy_maria_idle.yy",},
+    {"name":"obj_camera","order":2,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"rm_init","order":1,"path":"rooms/rm_init/rm_init.yy",},
+    {"name":"spr_dummy_maria_jump","order":4,"path":"sprites/spr_dummy_maria_jump/spr_dummy_maria_jump.yy",},
+  ],
 }
